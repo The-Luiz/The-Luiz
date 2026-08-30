@@ -62,8 +62,8 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 * **[Bitcoin Community Savings Platform (Cuyultitán)](https://github.com/The-Luiz/Fondo_Ahorro)** `Fintech / AI Agents`  
   Modular community platform for Cuyultitán leveraging **Dollar-Cost Averaging (DCA)** and **autonomous AI agents** for automated educational auditing and community news curation.
 
-* **[Value Averaging Hedge Fund Engine (Magnolia LTD)](https://github.com/The-Luiz)** `Hedge Fund / Quant`  
-  Researched and engineered an institutional **Value Averaging** strategy for Magnolia LTD, leading continuous algorithmic optimization and execution refinement.
+* **[Value Averaging Hedge Fund Engine](https://github.com/The-Luiz)** `Hedge Fund / Quant`  
+  Researched and engineered an institutional **Value Averaging** strategy, leading continuous algorithmic optimization and execution refinement.
 
 ---
 
