@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Luis+Ariel+👋;Software+Developer+%7C+Quant+%26+Agentic+Systems;Building+Autonomous+AI+Multi-Agent+Workflows;Engineering+Algorithmic+Trading+%26+Quant+Portfolios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Luis+Ariel+Rivas+Chica;Software+Developer+%7C+Quant+%26+Agentic+Systems;Autonomous+AI+Multi-Agent+Workflows;Algorithmic+Trading+%26+Quantitative+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,20 +10,20 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a technical background in electronics, focused on **quantitative & algorithmic trading systems**, **autonomous agentic AI workflows**, and **robust backend infrastructure**. Experienced in designing multi-agent orchestration pipelines and open-source fintech solutions.
 
-- 🤖 **Agentic AI & Orchestration**: Architecting autonomous agents, multi-agent systems, and complex execution pipelines with **LangChain / LangGraph** and **n8n**.
-- 📈 **Quant & Algorithmic Trading**: Engineering multi-asset portfolio strategies, quantitative modeling, and execution algorithms (**Dollar-Cost Averaging & Value Averaging**).
-- ⚙️ **Backend & Infrastructure**: Building resilient backend systems using **C#, Python, PostgreSQL, Docker, Linux, and Bash**.
-- 💡 **Methodologies & Collaboration**: Agile collaboration under **Scrum**, academic leadership, and continuous integration/delivery principles.
+- **Agentic AI & Orchestration**: Architecting autonomous agents, multi-agent systems, and complex execution pipelines with **LangChain / LangGraph** and **n8n**.
+- **Quant & Algorithmic Trading**: Engineering multi-asset portfolio strategies, quantitative modeling, and execution algorithms (**Dollar-Cost Averaging & Value Averaging**).
+- **Backend & Infrastructure**: Building resilient backend systems using **C#, Python, PostgreSQL, Docker, Linux, and Bash**.
+- **Methodologies & Collaboration**: Agile collaboration under **Scrum**, academic leadership, and continuous integration/delivery principles.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Technical Stack & Competencies
 
-#### 🤖 Agentic Workflows & AI
+#### Agentic Workflows & AI
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-23272D?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
@@ -32,7 +32,7 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-0EA5E9?style=for-the-badge&logo=probot&logoColor=white" alt="Multi-Agent Systems" />
 </p>
 
-#### 📈 Quant, Core Languages & Databases
+#### Quantitative Systems, Core Languages & Databases
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -42,7 +42,7 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-#### ☁️ DevOps, Systems & Tools
+#### DevOps, Systems & Architecture
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -54,7 +54,7 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 
 ---
 
-### 🚀 Featured Projects & Engineering Highlights
+### Featured Projects & Engineering Highlights
 
 | Project | Domain | Architecture & Highlights |
 | :--- | :--- | :--- |
@@ -64,24 +64,24 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 
 ---
 
-### 📊 GitHub Telemetry & Stats
+### GitHub Telemetry & Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=The-Luiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Luis's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Luiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-Luiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Luis's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-Luiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Luiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=The-Luiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🎓 Education & 🌐 Languages
+### Education & Languages
 
-- 🎓 **B.S. in Computer Science Engineering** (6th Term) — *Universidad Don Bosco* (2024 – Present)
-- 🔌 **Vocational Technical Degree in Electronics** (Graduated with Honors) — *Complejo Educativo Católico Nuestra Señora de la Paz* (2020 – 2023)
-- 🗣️ **Languages**: Spanish (Native) • English (Technical / A2)
+- **B.S. in Computer Science Engineering** (6th Term) — *Universidad Don Bosco* (2024 – Present)
+- **Vocational Technical Degree in Electronics** (Graduated with Honors) — *Complejo Educativo Católico Nuestra Señora de la Paz* (2020 – 2023)
+- **Languages**: Spanish (Native) • English (Technical / A2)
 
 ---
 
