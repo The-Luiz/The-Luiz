@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://theluiz.me" target="_blank"><img src="https://img.shields.io/badge/Website-theluiz.me-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:luiskz1212@gmail.com"><img src="https://img.shields.io/badge/Email-luiskz1212%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-El%20Salvador%2C%20La%20Paz%20Oeste-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <a href="https://www.google.com/maps/search/?api=1&query=La+Paz+Oeste,+El+Salvador" target="_blank"><img src="https://img.shields.io/badge/Location-El%20Salvador%2C%20La%20Paz%20Oeste-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
 </p>
 
 ---
@@ -56,19 +56,22 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 
 ### Featured Projects & Engineering Highlights
 
-| Project | Domain | Architecture & Highlights |
-| :--- | :--- | :--- |
-| **Quant Portfolio & Algorithmic Trading** | Quant / Fintech | Developed algorithmic trading and portfolio allocation strategies spanning **10+ financial assets** with risk-adjusted execution models. |
-| **Bitcoin Community Savings Platform** | Fintech / AI Agents | Modular community platform for Cuyultitán leveraging **Dollar-Cost Averaging (DCA)** and **autonomous AI agents** for automated educational auditing and news curation. |
-| **Value Averaging Hedge Fund Engine** | Hedge Fund / Quant | Researched and engineered an institutional **Value Averaging** strategy for Magnolia LTD, leading continuous optimization and execution refinement. |
+* **[Quant Portfolio & Algorithmic Trading](https://github.com/The-Luiz)** `Quant / Fintech`  
+  Developed algorithmic trading and portfolio allocation strategies spanning **10+ financial assets** with risk-adjusted quantitative execution models.
+
+* **[Bitcoin Community Savings Platform (Cuyultitán)](https://github.com/The-Luiz/Fondo_Ahorro)** `Fintech / AI Agents`  
+  Modular community platform for Cuyultitán leveraging **Dollar-Cost Averaging (DCA)** and **autonomous AI agents** for automated educational auditing and community news curation.
+
+* **[Value Averaging Hedge Fund Engine (Magnolia LTD)](https://github.com/The-Luiz)** `Hedge Fund / Quant`  
+  Researched and engineered an institutional **Value Averaging** strategy for Magnolia LTD, leading continuous algorithmic optimization and execution refinement.
 
 ---
 
 ### GitHub Telemetry & Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-Luiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Luis's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-Luiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=The-Luiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Luis's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=The-Luiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 <div align="center">
