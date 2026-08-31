@@ -16,7 +16,7 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 
 - **Agentic AI & Orchestration**: Architecting autonomous agents, multi-agent systems, and complex execution pipelines with **LangChain / LangGraph** and **n8n**.
 - **Quant & Algorithmic Trading**: Engineering multi-asset portfolio strategies, quantitative modeling, and execution algorithms (**Dollar-Cost Averaging & Value Averaging**).
-- **Backend & Infrastructure**: Building resilient backend systems using **C#, Python, PostgreSQL, Docker, Linux, and Bash**.
+- **Backend & Infrastructure**: Building resilient backend systems using **C#, Python, SQLServer, Linux, and Bash**.
 - **Methodologies & Collaboration**: Agile collaboration under **Scrum**, academic leadership, and continuous integration/delivery principles.
 
 ---
