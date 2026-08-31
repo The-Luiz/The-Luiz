@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="https://theluiz.me" target="_blank"><img src="https://img.shields.io/badge/Website-theluiz.me-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:luiskz1212@gmail.com"><img src="https://img.shields.io/badge/Email-luiskz1212%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.google.com/maps/search/?api=1&query=La+Paz+Oeste,+El+Salvador" target="_blank"><img src="https://img.shields.io/badge/Location-El%20Salvador%2C%20La%20Paz%20Oeste-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
 </p>
@@ -14,7 +13,7 @@
 
 Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a technical background in electronics, focused on **quantitative & algorithmic trading systems**, **autonomous agentic AI workflows**, and **robust backend infrastructure**. Experienced in designing multi-agent orchestration pipelines and open-source fintech solutions.
 
-- **Agentic AI & Orchestration**: Architecting autonomous agents, multi-agent systems, and complex execution pipelines with **LangChain / LangGraph** and **n8n**.
+- **Agentic AI & Orchestration**: Architecting autonomous agents, multi-agent systems, and complex execution pipelines with **LangChain / LangGraph**.
 - **Quant & Algorithmic Trading**: Engineering multi-asset portfolio strategies, quantitative modeling, and execution algorithms (**Dollar-Cost Averaging & Value Averaging**).
 - **Backend & Infrastructure**: Building resilient backend systems using **C#, Python, SQLServer, Linux, and Bash**.
 - **Methodologies & Collaboration**: Agile collaboration under **Scrum**, academic leadership, and continuous integration/delivery principles.
@@ -51,14 +50,6 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 
 ---
 
-### Featured Projects & Engineering Highlights
-
-* **[Quant Portfolio & Algorithmic Trading](https://github.com/The-Luiz)** `Quant / Fintech`  
-  Developed algorithmic trading and portfolio allocation strategies spanning **10+ financial assets** with risk-adjusted quantitative execution models.
-
-* **[Bitcoin Community Savings Platform (Cuyultitán)](https://github.com/The-Luiz/Fondo_Ahorro)** `Fintech / AI Agents`  
-  Modular community platform for Cuyultitán leveraging **Dollar-Cost Averaging (DCA)** and **autonomous AI agents** for automated educational auditing and community news curation.
-
 ### Education & Languages
 
 - **B.S. in Computer Science Engineering** (6th Term) — *Universidad Don Bosco* (2024 – Present)
@@ -68,5 +59,5 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 ---
 
 <p align="center">
-  <sub>Designed with quantitative precision & agentic engineering • <a href="https://theluiz.me">theluiz.me</a></sub>
+  <sub>Designed with quantitative precision & agentic engineering</sub>
 </p>
