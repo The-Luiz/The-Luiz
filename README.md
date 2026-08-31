@@ -65,21 +65,6 @@ Computer Science Engineering student (6th cycle @ Universidad Don Bosco) with a 
 * **[Value Averaging Hedge Fund Engine](https://github.com/The-Luiz)** `Hedge Fund / Quant`  
   Researched and engineered an institutional **Value Averaging** strategy, leading continuous algorithmic optimization and execution refinement.
 
----
-
-### GitHub Telemetry & Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=The-Luiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Luis's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=The-Luiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=The-Luiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### Education & Languages
 
 - **B.S. in Computer Science Engineering** (6th Term) — *Universidad Don Bosco* (2024 – Present)
